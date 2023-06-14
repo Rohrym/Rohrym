@@ -23,8 +23,8 @@
 My name is Thomas, and I am a [Digital Humanist](https://en.wikipedia.org/wiki/Digital_humanities) and [IT Consultant](https://en.wikipedia.org/wiki/Information_technology_consulting) working at [Qquest](https://www.qquest.nl/) based in [Utrecht](https://goo.gl/maps/vJTkQjFCtSZA9ZSN6). 
 
 - 💼 I am currently working on several data projects.
-- 🌱 I am learning PowerBI and Mendix.
-- 🚀 Looking for an assignment in data or development.
+- 🌱 I am learning ITIL and VBA.
+- 🚀 Starting in application management soon!
 
 ### 🛠️ Languages and Frameworks in my toolbelt 🛠️
 
