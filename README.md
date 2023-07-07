@@ -22,9 +22,9 @@
 
 My name is Thomas, and I am a [Digital Humanist](https://en.wikipedia.org/wiki/Digital_humanities) and [IT Consultant](https://en.wikipedia.org/wiki/Information_technology_consulting) working at [Qquest](https://www.qquest.nl/) based in [Utrecht](https://goo.gl/maps/vJTkQjFCtSZA9ZSN6). 
 
-- 💼 I am currently working on several data projects.
-- 🌱 I am learning ITIL and VBA.
-- 🚀 Starting in application management soon!
+- 💼 I am currently onboarding.
+- 🌱 I am learning the ropes of ITSM.
+- 🚀 Assigned as Application Manager at KPMG Meijburg.
 
 ### 🛠️ Languages and Frameworks in my toolbelt 🛠️
 
@@ -36,6 +36,7 @@ My name is Thomas, and I am a [Digital Humanist](https://en.wikipedia.org/wiki/D
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" title="Java" alt="Java" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png?20220905010122" title="Git" alt="Git" width="45" height="45"/>
 <img src="https://pbs.twimg.com/profile_images/1329374687554646018/Fn5__gbH_400x400.png" title="oXygen" alt="XML" width="45" height="45"/>
+<img src="https://masteritprod.blob.core.windows.net/productimages/C_ITIL_4_Foundation88a23c79-2267-ec11-8f8f-000d3a271115.png?sv=2018-03-28&sr=b&sig=5Awkp0DWI3zr%2FYf4FUEO9AkGDC7IW7adTxbfF7jNhTE%3D&st=2021-12-27T14%3A07%3A29Z&se=2031-12-27T14%3A37%3A27Z&sp=r" title="ITIL4" alt="ITIL" width="45" height="45"/>
 </p>
 
 ---
