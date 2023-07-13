@@ -24,7 +24,7 @@ My name is Thomas, and I am a [Digital Humanist](https://en.wikipedia.org/wiki/D
 
 - 💼 I am currently onboarding.
 - 🌱 I am learning the ropes of ITSM.
-- 🚀 Assigned as Application Manager at KPMG Meijburg.
+- 🚀 Assigned as Application Manager at KPMG Meijburg & Co.
 
 ### 🛠️ Languages and Frameworks in my toolbelt 🛠️
 
