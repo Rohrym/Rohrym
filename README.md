@@ -22,9 +22,9 @@
 
 My name is Thomas, and I am a [Digital Humanist](https://en.wikipedia.org/wiki/Digital_humanities) and [IT Consultant](https://en.wikipedia.org/wiki/Information_technology_consulting) working at [Qquest](https://www.qquest.nl/) based in [Utrecht](https://goo.gl/maps/vJTkQjFCtSZA9ZSN6). 
 
-- 💼 I am currently onboarding.
-- 🌱 I am learning the ropes of ITSM.
-- 🚀 Assigned as Application Manager at KPMG Meijburg & Co.
+- 💼 I am currently working on various Power BI projects.
+- 🌱 I am learning the ropes of Power BI.
+- 🚀 Looking for a new assignment via Qquest.
 
 ### 🛠️ Languages and Frameworks in my toolbelt 🛠️
 
